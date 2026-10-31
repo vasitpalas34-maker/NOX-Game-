@@ -1,5 +1,3 @@
-# NOX-Game
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
