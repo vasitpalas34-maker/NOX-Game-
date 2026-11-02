@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport,NOX,NOX Game" content="width=device-width, initial-scale=1.0">
     <title>Nox Gaming Hub - Restriction Gamers</title>
     <style>
         * {
@@ -421,7 +421,7 @@
         <nav>
             <ul>
                 <li><a href="platform.html" class="active">Home</a></li>
-                <li><a href="#">Tournaments</a></li>
+                <li><a href="jadu gamer.html">Tournaments</a></li>
                 <li><a href="#">Streams</a></li>
                 <li><a href="#">Community</a></li>
             </ul>
